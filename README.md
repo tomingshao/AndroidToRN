@@ -8,6 +8,24 @@
 7:modal通过原生popwindow实现全屏,解决status覆盖问题<br>
 8:集成redux<br>
 
+
+
+```
+git checkout chapter3
+
+```
+
+3 Install dependencies from package.json
+
+```
+npm install
+
+```
+
+<div style="padding-top:100px;height:500px;width:500px;background-color:red" data-snack-id="@mingshao/harry-rn" data-snack-platform="web" data-snack-preview="true" data-snack-theme="light" style="overflow:hidden;background:#F9F9F9;border:1px solid var(--color-border);border-radius:4px;height:505px;width:100%"></div><script async src="https://snack.expo.io/embed.js"></script>
+
+
+
 # 环境：
 Android studio3.0<br>
 react native 0.55.4<br>
